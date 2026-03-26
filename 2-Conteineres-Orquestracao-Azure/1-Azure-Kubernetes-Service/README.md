@@ -8,7 +8,7 @@ Também são explorados serviços importantes como o **Azure Container Registry 
 
 # 🧠 Azure Kubernetes Service (AKS)
 
-O **Azure Kubernetes Service (AKS)** é um serviço gerenciado que permite executar aplicações em contêineres utilizando **Kubernetes**, sem a necessidade de administrar manualmente toda a infraestrutura do cluster.
+O **Azure Kubernetes Service (AKS)** é um serviço gerenciado que permite executar aplicações em coneres utilizando **Kubernetes**, sem a necessidade de administrar manualmente toda a infraestrutura do cluster.
 
 Com o AKS é possível:
 
